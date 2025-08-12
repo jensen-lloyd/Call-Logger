@@ -6,12 +6,13 @@ Call Logging Analysis tool for helpdesk teams, with custom global response templ
 - [ ] Record caller name
 - [ ] Record caller category (individual, CompanyA, CompanyB Location1, CompanyB Location2 etc)
 - [ ] Record a support ticket number
-- [ ] Record conversational notes into fields
+- [ ] Record conversational notes into custom fields e.g.
     - Issue
     - Details (computer type, Teamviewer ID)
     - Steps attempted
     - Duration of issue
     - Steps instructed by support over the phone
+<br>
 
 - [ ] Send a call to another team member (collaborate in real time)
 - [ ] View colleague's call notes
